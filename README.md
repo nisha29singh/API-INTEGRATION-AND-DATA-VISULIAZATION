@@ -29,4 +29,5 @@ Includes labeled axes and a title for clarity.
 
 
 #   Output : 
+![Image](https://github.com/user-attachments/assets/f06402ea-8c6f-4f71-a706-d90919638c5d)
 
